@@ -6,4 +6,5 @@ public class ClassOne {
     int z;
     int u;
     int v;
+    int thirdbranch;
 }
