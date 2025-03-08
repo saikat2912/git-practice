@@ -3,11 +3,9 @@ package com.example;
 public class sample
 {
     public static void main (String args []){
-        int a=10;
-        
         int a;
         int saikat;
-
+        
         int dp;
        
             int arr[] = {2,1,3,5};
