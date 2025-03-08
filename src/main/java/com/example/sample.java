@@ -5,9 +5,12 @@ public class sample
     public static void main (String args []){
         int a=10;
         
+        int a;
+        int saikat;
+       
             int arr[] = {2,1,3,5};
             System.out.println(SumofAllSubarray(arr));
-        }
+    }
         public static int SumofAllSubarray(int arr[])
         {
             int ans=0;
