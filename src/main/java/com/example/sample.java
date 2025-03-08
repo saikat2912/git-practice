@@ -7,6 +7,8 @@ public class sample
         
         int a;
         int saikat;
+
+        int dp;
        
             int arr[] = {2,1,3,5};
             System.out.println(SumofAllSubarray(arr));
