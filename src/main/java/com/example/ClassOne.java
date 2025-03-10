@@ -8,6 +8,7 @@ public class ClassOne {
     int v;
     int maniket;
     int rajat;
+    System.out.println("Hello rajat");
 
     int sonu;
 
