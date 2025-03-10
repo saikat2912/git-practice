@@ -9,5 +9,6 @@ public class ClassOne {
     int maniket;
     int rajat;
 
+    int sonu;
     
 }
