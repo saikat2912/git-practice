@@ -7,4 +7,6 @@ public class ClassOne {
     int u;
     int v;
     int maniket;
+
+    
 }

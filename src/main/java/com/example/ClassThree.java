@@ -1,3 +1,5 @@
+package com.example;
+
 class ClassThree{
 
     int n;
