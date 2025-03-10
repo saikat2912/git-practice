@@ -1,5 +1,5 @@
 package com.example;
 
 public class ClassTwo {
-    int saikat;
+    int saikat=10;
 }
