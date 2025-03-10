@@ -10,5 +10,7 @@ public class ClassOne {
     int rajat;
 
     int sonu;
+
+    int maniket1;
     
 }
