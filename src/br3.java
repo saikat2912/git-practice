@@ -2,6 +2,6 @@ public class  three
 {
 public static void main (String args[]){
 
-int s=;
+int s=0;
 }
 }  
