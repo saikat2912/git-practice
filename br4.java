@@ -1,6 +1,4 @@
-package com.example;
-
-public class ClassOne {
+public class Abc{
     int x;
     int y;
     int z;
@@ -12,5 +10,4 @@ public class ClassOne {
     int sonu;
 
     int maniket1;
-    
 }

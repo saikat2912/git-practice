@@ -3,8 +3,15 @@ package com.example;
 public class sample
 {
     public static void main (String args []){
-        int a;
+        int a=10;
+        
+        // int a;
         int saikat;
+        int and;
+        int w;
+
+        // int a;
+        // int saikat;
         
         int dp=10;
        int fo=20;
