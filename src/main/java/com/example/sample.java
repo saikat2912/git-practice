@@ -10,6 +10,9 @@ public class sample
         int and;
         int w;
 
+        // int a;
+        // int saikat;
+        
         int dp;
        
             int arr[] = {2,1,3,5};
